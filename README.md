@@ -1,6 +1,6 @@
 # Local Respository
 
-Iniotialise as a git repository with:
+Initialise as a git repository with:
 git init
 
 add and commit as usual
