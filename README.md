@@ -13,4 +13,4 @@ check using:
 git remote -v
 
 Pushing now works, add upstream to set the push path as default, so in future just 'git push' would work. By:
-git push -u origin main
+git push -u origin master
